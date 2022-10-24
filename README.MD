@@ -17,13 +17,14 @@ Reports     : <br>
 Notes       :
 
 ### Day 3: 10/24/2022 (Monday)
-[X] ( -- / 60 ) Level Up
-> 
+[X] ( 60 / 60 ) Level Up
+> Read BlackArch Docs/Tooling
 Target      : <br>
 Time-In     : <br>
 Time-Out    : <br>
 Reports     : <br>
-Notes       :
+Notes       : <br>
+
 
 ### Day 2: 10/23/2022 (Sunday)
 Installed various VM: BlackArch, ~~Samurai~~ <br>
