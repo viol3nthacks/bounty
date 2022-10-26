@@ -27,7 +27,7 @@ Notes       : <br>
 
 ### Day 4: 10/25/2022 (Tuesday)
 [X] ( 60 / 60 ) Level Up
-> Setup Docker VPN, Kali VPS Docker Image
+> Setup Docker VPN, Kali VPS Docker Image, Setup VPS
 **Read Reports/Bug Documentation**
 
 ### Day 3: 10/24/2022 (Monday)
