@@ -16,14 +16,15 @@ Time-Out    : <br>
 Reports     : <br>
 Notes       : <br>
 
-### Day 5: 10/26/2022 (Wednesday)
-[-] ( -- / 60 ) Level Up
-> 
 Target      : <br>
 Time-In     : <br>
 Time-Out    : <br>
 Reports     : <br>
 Notes       : <br>
+
+### Day 5: 10/26/2022 (Wednesday)
+[-] ( 60 / 60 ) Level Up
+> Hacking Docker, VPN through Docker
 
 ### Day 4: 10/25/2022 (Tuesday)
 [X] ( 60 / 60 ) Level Up
