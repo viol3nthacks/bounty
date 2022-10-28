@@ -22,6 +22,14 @@ Time-Out    : <br>
 Reports     : <br>
 Notes       : <br>
 
+### Day 7: 10/28/2022 (Friday)
+[-] ( 60 / 60 ) Level Up
+> OpenVPN Final
+
+### Day 6: 10/27/2022 (Thursday)
+[-] ( 60 / 60 ) Level Up
+> Infosec Twitter, Read Nuclei Articles
+
 ### Day 5: 10/26/2022 (Wednesday)
 [-] ( 60 / 60 ) Level Up
 > Hacking Docker, VPN through Docker
@@ -35,7 +43,6 @@ Notes       : <br>
 [X] ( 60 / 60 ) Level Up
 > Read BlackArch Docs/Tooling, Docker Deep Dive, C2 Docker
 **Not Able to Hunt**
-
 
 ### Day 2: 10/23/2022 (Sunday)
 Installed various VM: BlackArch, ~~Samurai~~ <br>
