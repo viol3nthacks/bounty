@@ -22,6 +22,9 @@ Time-Out    : <br>
 Reports     : <br>
 Notes       : <br>
 
+### Day 8: 10/29/2022 (Saturday)
+Started AI Trading Bot
+
 ### Day 7: 10/28/2022 (Friday)
 [-] ( 60 / 60 ) Level Up
 > OpenVPN Final
