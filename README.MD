@@ -22,6 +22,13 @@ Time-Out    : <br>
 Reports     : <br>
 Notes       : <br>
 
+
+
+### Day 9: 10/30/2022 (Sunday)
+Structured Sec Path <br>
+LLC Filing Research <br>
+Wifi/VM Kali Interface Research
+
 ### Day 8: 10/29/2022 (Saturday)
 Started AI Trading Bot
 
