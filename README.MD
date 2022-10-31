@@ -7,22 +7,15 @@
 
 ***
 
-### Day 6: 10/27/2022 (Thursday)
-[-] ( -- / 60 ) Level Up
-> 
+
+### Day 10: 10/31/2022 (Monday)
+[-] ( 60 / 60 ) Level Up
+> Consolidation, Backups, Device Encryption Rollout, Web Hacker Handbook
 Target      : <br>
 Time-In     : <br>
 Time-Out    : <br>
 Reports     : <br>
 Notes       : <br>
-
-Target      : <br>
-Time-In     : <br>
-Time-Out    : <br>
-Reports     : <br>
-Notes       : <br>
-
-
 
 ### Day 9: 10/30/2022 (Sunday)
 Structured Sec Path <br>
