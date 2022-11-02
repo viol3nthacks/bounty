@@ -7,6 +7,10 @@
 
 ***
 
+### Day 11: 11/2/2022 (Wednesday))
+[-] ( 60 / 60 ) Level Up
+> PortSwigger Academy
+
 ### Day 11: 11/1/2022 (Tuesday)
 [-] ( 60 / 60 ) Level Up
 > PortSwigger Academy
