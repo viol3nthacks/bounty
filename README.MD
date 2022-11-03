@@ -7,6 +7,10 @@
 
 ***
 
+### Day 12: 11/3/2022 (Thursday)
+[-] ( 60 / 60 ) Level Up
+> Launched Bebop Repo w/Ansible+Terraform+Docker Integration
+
 ### Day 11: 11/2/2022 (Wednesday))
 [-] ( 60 / 60 ) Level Up
 > PortSwigger Academy
