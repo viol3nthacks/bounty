@@ -6,6 +6,9 @@
 - Learn New Skills
 
 ***
+### Day 16: 11/6/2022 (Sunday)
+[-] ( 60 / 60 ) Level Up
+> Research
 
 ### Day 15: 11/5/2022 (Saturday)
 [-] ( 60 / 60 ) Level Up
