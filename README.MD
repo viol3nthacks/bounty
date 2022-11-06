@@ -7,6 +7,10 @@
 
 ***
 
+### Day 15: 11/5/2022 (Saturday)
+[-] ( 60 / 60 ) Level Up
+> Kali in the Browser, KASM Workspaces
+
 ### Day 14: 11/4/2022 (Friday)
 [-] ( 60 / 60 ) Level Up
 > Docker Networking
