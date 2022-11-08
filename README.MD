@@ -6,6 +6,10 @@
 - Learn New Skills
 
 ***
+### Day 18: 11/8/2022 (Monday)
+[-] ( 60 / 60 ) Level Up
+> docker deep dive
+
 ### Day 17: 11/7/2022 (Sunday)
 [-] ( 60 / 60 ) Level Up
 > docker-compose
