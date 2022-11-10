@@ -6,6 +6,8 @@
 - Learn New Skills
 
 ***
+###### TAKING THIS PRIVATE
+
 ### Day 18: 11/8/2022 (Monday)
 [-] ( 60 / 60 ) Level Up
 > docker deep dive
