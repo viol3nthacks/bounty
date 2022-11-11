@@ -6,6 +6,8 @@
 - Learn New Skills
 
 ***
+### Learned Docker/Kubernetes, Bought VPS + Burp License, Busy Implementing.
+
 ###### TAKING THIS PRIVATE
 
 ### Day 18: 11/8/2022 (Monday)
